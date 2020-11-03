@@ -40,13 +40,12 @@ export default function MovieForm(){
 			poster: "",
 			plot: "",
 			year: "",
-			// id: "",
+			id: "",
 			rated: "",
 			genre: "",
 			rating:"",
 			votes: "",
 			imdbID: "",
-			reviews: "",
 			releaseDate: ""
 
 		} : {...movie},
@@ -111,13 +110,13 @@ export default function MovieForm(){
 				</div>
 			</div>
 
-			{/* <div className="field">
+			<div className="field">
 				<label htmlFor="id">ID</label>
 				<div className="control">
 					<input type="number" name="id" value={values.id} onChange={handleChange}/>
 					<VHelp message={errors.id}/>
 				</div>
-			</div> */}
+			</div>
 
 			<div className="field">
 				<label htmlFor="poster">Poster</label>

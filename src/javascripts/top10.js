@@ -11,7 +11,8 @@ export const top10 = [
 	  "votes": 1078045,
 	  "imdbID": "tt0111161",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102092,
@@ -25,7 +26,8 @@ export const top10 = [
 	  "votes": 762332,
 	  "imdbID": "tt0068646",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102093,
@@ -39,7 +41,8 @@ export const top10 = [
 	  "votes": 496772,
 	  "imdbID": "tt0071562",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102094,
@@ -53,7 +56,8 @@ export const top10 = [
 	  "votes": 843376,
 	  "imdbID": "tt0110912",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102095,
@@ -67,7 +71,8 @@ export const top10 = [
 	  "votes": 325579,
 	  "imdbID": "tt0060196",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102096,
@@ -81,7 +86,8 @@ export const top10 = [
 	  "votes": 1050810,
 	  "imdbID": "tt0468569",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102097,
@@ -95,7 +101,8 @@ export const top10 = [
 	  "votes": 266350,
 	  "imdbID": "tt0050083",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102098,
@@ -109,7 +116,8 @@ export const top10 = [
 	  "votes": 553804,
 	  "imdbID": "tt0108052",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102099,
@@ -123,7 +131,8 @@ export const top10 = [
 	  "votes": 767958,
 	  "imdbID": "tt0167260",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": []
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	},
 	{
 	  "id": 102100,
@@ -137,6 +146,7 @@ export const top10 = [
 	  "votes": 819812,
 	  "imdbID": "tt0137523",
 	  "releaseDate":new Date("1990-05-07"),
-	  "reviews": [] 
+	  "added_at": new Date(),
+	  "updated_at": new Date()
 	}
   ]

@@ -19,8 +19,8 @@ let movieSchema = new Schema({
 	imdbID: String,
 	added_at: Date,
 	updated_at: Date,
-	releaseDate: Date,
-	reviews: [ reviewSchema ]
+	releaseDate: Date
+	// reviews: [ reviewSchema ]
 })
 
 movieSchema.virtual('id').get(function(){
